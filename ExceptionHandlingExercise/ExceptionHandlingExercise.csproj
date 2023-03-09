@@ -8,4 +8,8 @@
   <ItemGroup>
     <None Remove="DataFile.txt" />
   </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\.editorconfig" Link=".editorconfig" />
+  </ItemGroup>
 </Project>
